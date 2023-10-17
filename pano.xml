@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="19982" id="node1" appversion="7.0.4">
+  <input leveltilesize="510" width="240" levelingroll="0" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="240" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+    <level preload="1" predecode="1" width="240" height="240"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="2" pannorth="0">
+    <start fov="100" tilt="0" projection="4" pan="0"/>
+    <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+    <min tilt="-53.6346" fovpixel="2" pan="-180"/>
+    <max fov="140" tilt="53.6346" fovstereographic="330" fovfisheye="360" pan="180"/>
+  </view>
+  <userdata datetime="" heading="0" copyright="" nodeid="node1" comment="" latitude="" info="" author="" source="" tags="Downloads" longitude="" title="" description="" customnodeid=""/>
+  <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+    <label borderalpha="1" enabled="1" width="180" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" textcolor="0x000000" background="1" border="1" wordwrap="1" borderradius="1" backgroundcolor="0xffffff"/>
+    <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+  </hotspots>
+  <media/>
+  <transition zoomfov="40" enabled="1" delay="none" zoomafteroutfov="40" zoomafterinfov="140" blendtime="1" zoomin="0" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve"/>
+  <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+  <control hideabout="0" contextfullscreen="1" simulatemass="1" lockedwheel="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" rubberband="0" zoomcentercursor="1" speedwheel="1" invertcontrol="1" lockedmouse="0" contextprojections="0" invertwheel="0"/>
+  <projectuserdata author="" tags="" title="" description="" copyright="" comment=""/>
+</panorama>
