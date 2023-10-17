@@ -1,2 +1,2 @@
 # pieprima22.github.io
-VR
+VRDEMO
