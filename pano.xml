@@ -1,71 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node1" appversion="7.0.4" apprev="19982">
+<tour apprev="19982" start="node1" appversion="7.0.4">
   <panorama id="node1">
-    <input leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="500" overlap="1" levelingroll="0" levelbias="0.400" width="500">
-      <level predecode="1" height="500" preload="1" width="500"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="345" levelingpitch="0" overlap="1" height="345">
+      <level preload="1" width="345" predecode="1" height="345"/>
+      <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start pan="-55.65" tilt="-16.68" projection="4" fov="100"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
-      <min pan="-180" tilt="-54.7261" fovpixel="2"/>
-      <max pan="180" fovfisheye="360" tilt="54.7261" fovstereographic="330" fov="133.97"/>
+      <start projection="4" tilt="10.01" pan="9.67" fov="137.91"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-91.73" pan="0"/>
+      <max fovstereographic="330" scaletofit="1" fovfisheye="360" tilt="105.91" pan="360" fov="140"/>
     </view>
-    <userdata customnodeid="" copyright="" datetime="7/5/2018 5:37 PM" source="" author="NORTH" tags="KITCHEN" title="KITCHEN" latitude="" description="" longitude="" altitude="-3048.00" nodeid="node1" comment="" info="" heading="0"/>
-    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
-      <label bordercolor="0x000000" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1" border="1" borderradius="1" height="20" background="1" backgroundalpha="1" width="180" borderalpha="1" textalpha="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
-      <hotspot pan="-136.67" description="" target="" skinid="ht_node" id="Point01" url="{node2}" tilt="-9.34" title="LIVINGROOM"/>
+    <userdata datetime="" title="GLASSHOUSE A" copyright="" info="" source="" longitude="" altitude="-3048.00" description="" author="" customnodeid="" nodeid="node1" tags="GLASSHOUSE" heading="0" latitude="" comment=""/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" border="1" textalpha="1" enabled="1" bordercolor="0x000000" height="20" background="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" blendcolor="0x000000" softedge="0" blendtime="1" zoomfov="40" zoomafterinfov="140" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomspeed="2"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
-    <control contextfullscreen="1" rubberband="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedwheel="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" hideabout="0"/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomspeed="2" softedge="0" enabled="1" zoomin="0" delay="none" blendcolor="0x000000" zoomout="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" invertcontrol="1" rubberband="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" sensitivity="8" invertwheel="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node2">
-    <input leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="480" overlap="1" levelingroll="0" levelbias="0.400" width="480">
-      <level predecode="1" height="480" preload="1" width="480"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="345" levelingpitch="0" overlap="1" height="345">
+      <level preload="1" width="345" predecode="1" height="345"/>
+      <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start pan="85" tilt="0" projection="4" fov="132.44"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
-      <min pan="-180" tilt="-58.5686" fovpixel="2"/>
-      <max pan="180" fovfisheye="360" tilt="58.5686" fovstereographic="330" fov="140"/>
+      <start projection="4" tilt="7.7" pan="-29.46" fov="120.97"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-47.33" pan="0"/>
+      <max fovstereographic="330" scaletofit="1" fovfisheye="360" tilt="62.74" pan="360" fov="140"/>
     </view>
-    <userdata customnodeid="" copyright="" datetime="SOUTH" source="" author="" tags="LIVINGROOM" title="LIVINGROOM" latitude="" description="" longitude="" altitude="-3048.00" nodeid="node2" comment="" info="" heading="0"/>
-    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
-      <label bordercolor="0x000000" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1" border="1" borderradius="1" height="20" background="1" backgroundalpha="1" width="180" borderalpha="1" textalpha="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+    <userdata datetime="" title="GLASSHOUSE B" copyright="" info="" source="" longitude="" altitude="-3048.00" description="" author="" customnodeid="" nodeid="node2" tags="GLASSHOUSE" heading="0" latitude="" comment=""/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" width="180" wordwrap="1" borderalpha="1" border="1" textalpha="1" enabled="1" bordercolor="0x000000" height="20" background="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" blendcolor="0x000000" softedge="0" blendtime="1" zoomfov="40" zoomafterinfov="140" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomspeed="2"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
-    <control contextfullscreen="1" rubberband="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedwheel="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" hideabout="0"/>
-  </panorama>
-  <panorama id="node3">
-    <input leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="180" overlap="1" levelingroll="0" levelbias="0.400" width="180">
-      <level predecode="1" height="180" preload="1" width="180"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view fovmode="2" pannorth="0">
-      <start pan="0" tilt="0" projection="4" fov="100"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="330" fov="140"/>
-    </view>
-    <userdata customnodeid="" copyright="" datetime="" source="" author="" tags="BEDROOM" title="BEDROOM" latitude="" description="" longitude="" altitude="-3048.00" nodeid="node3" comment="" info="" heading="0"/>
-    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
-      <label bordercolor="0x000000" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" wordwrap="1" border="1" borderradius="1" height="20" background="1" backgroundalpha="1" width="180" borderalpha="1" textalpha="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
-    </hotspots>
-    <media/>
-    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" blendcolor="0x000000" softedge="0" blendtime="1" zoomfov="40" zoomafterinfov="140" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomspeed="2"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
-    <control contextfullscreen="1" rubberband="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedwheel="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" hideabout="0"/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomspeed="2" softedge="0" enabled="1" zoomin="0" delay="none" blendcolor="0x000000" zoomout="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" invertcontrol="1" rubberband="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" sensitivity="8" invertwheel="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0"/>
   </panorama>
   <masternode>
-    <userdata copyright="" description="" author="" comment="" tags="" title=""/>
+    <userdata description="" author="" tags="" title="" copyright="" comment=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>

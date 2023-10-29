@@ -3,7 +3,10 @@
 	"type": "panorama",
 	"external": {
 		"js": [],
-		"css": []
+		"css": [
+			"https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap",
+			"https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+		]
 	},
 	"skin": {
 		"js": "skin.js"
@@ -12,7 +15,7 @@
 	"player": {
 		"js": "pano2vr_player.js"
 	},
-	"creationdate": "2023-10-17T14:39:33.752Z",
+	"creationdate": "2023-10-29T06:26:06.179Z",
 	"configuration": "pano.xml",
 	"preview": {
 		"img": "preview.jpg",
