@@ -1,2 +1,1 @@
-# pieprima22.github.io
-VRDEMO
+# Thaistick.github.io
